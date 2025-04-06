@@ -10,6 +10,8 @@
 
 ## 📱 交流群
 - AI&Dify&Coze 交流群，请＋V：【leefjyy】验证信息：【Dify】
-- Java 互联网技术交流群，请＋V：【leefjyy】验证信息：【Dify】
+- Java 互联网技术交流群，请＋V：【leefjyy】验证信息：【Java】
+
+## 💬 社交媒体
 <img width="106" alt="leefjyy" src="https://github.com/user-attachments/assets/9e00cd52-fbd5-4116-8372-23779582de10" />
 <img width="100" alt="leefjyy" src="https://github.com/user-attachments/assets/0b577d64-1b23-4e5f-8644-691b12f6d33c" />
