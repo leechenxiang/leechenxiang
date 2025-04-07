@@ -20,7 +20,7 @@
 [《高性能架构 - 多级网关与多级缓存实践》](http://www.baidu.com/) <br>
 <img width="160" alt="高性能多级缓存架构" src="https://github.com/user-attachments/assets/09cb0ca0-33e7-4bb2-bbdb-0bd234ca4710" />  
 <br>
-<img width="260" alt="Java架构师" src="https://github.com/user-attachments/assets/e62fec76-2f1e-46a3-bcb6-e4d0d03cd8d6" />
+<img width="260" alt="Java高级工程师" src="https://github.com/user-attachments/assets/e565d21a-74b4-401b-b820-ac5471b2424d" />
 <br>
-<img width="260" alt="1" src="https://github.com/user-attachments/assets/e565d21a-74b4-401b-b820-ac5471b2424d" />
+<img width="260" alt="Java架构师" src="https://github.com/user-attachments/assets/e62fec76-2f1e-46a3-bcb6-e4d0d03cd8d6" />
 
