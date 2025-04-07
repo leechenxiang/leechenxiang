@@ -18,8 +18,8 @@
 
 ## ✨ 作品
 
-
-<img width="1880" alt="Java架构师" src="https://github.com/user-attachments/assets/b804a8ec-1344-46ca-9827-0fc2c6f646a8" />
+<img width="160" alt="Java架构师" src="https://github.com/user-attachments/assets/09cb0ca0-33e7-4bb2-bbdb-0bd234ca4710" />
+<img width="160" alt="Java架构师" src="https://github.com/user-attachments/assets/b804a8ec-1344-46ca-9827-0fc2c6f646a8" />
 
 <img width="1880" alt="Java架构师" src="https://github.com/user-attachments/assets/57ada42b-c41a-433e-ba8f-cc1e39f31151" />
 <img width="1880" alt="Java高级工程师" src="https://github.com/user-attachments/assets/63c5face-8586-46ed-87d4-649a58ede0ec" />
