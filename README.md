@@ -17,6 +17,9 @@
 
 ## ✨ 作品
 [《高性能架构 - 多级网关与多级缓存实践》](https://item.jd.com/14750856.html) <br>
+
+![Dify AI智能体开发实战](https://github.com/user-attachments/assets/7154c1f3-ed07-41fd-a1ef-85d3100a1aea)
+
 <img width="160" alt="高性能多级缓存架构" src="https://github.com/user-attachments/assets/09cb0ca0-33e7-4bb2-bbdb-0bd234ca4710" />  
 <br>
 <img width="260" alt="Java高级工程师" src="https://github.com/user-attachments/assets/e565d21a-74b4-401b-b820-ac5471b2424d" />
